@@ -1,6 +1,16 @@
-const userLogin=[
-    {id:0001, username:"vitoricoma", senha:"gordinho123",email:"vitor.icoma@soulcodeacademy.org"},
-    {id:0002, username:"vMarcelofarofa", senha:"ff123", email:"marceloff@gmail.com"}
-];
-
-export default userLogin;
+const userLogin = [
+    {
+      id: 1001,
+      username: 'victoricoma',
+      senha: 'gordinho123',
+      email: 'victoricoma@soulcodeacademy.org'
+    },
+    {
+      id: 1002,
+      username: 'marcelofarofa',
+      senha: 'ff123456',
+      email: 'marceloff@gmail.com'
+    }
+  ]
+  
+  export default userLogin
