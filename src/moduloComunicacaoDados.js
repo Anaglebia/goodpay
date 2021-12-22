@@ -27,3 +27,4 @@ const comunicacaoModal = [
   ]
   
   export default comunicacaoModal;
+
